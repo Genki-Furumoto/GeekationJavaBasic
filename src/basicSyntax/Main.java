@@ -17,6 +17,3 @@ public class Main {
 	    System.out.println("割り算の計算結果は" + divideResult + "です。");
 	  }
 	}
-	}
-
-}
