@@ -6,7 +6,7 @@ public class Calculation {
 		int y = 10;
 		int z  = x + y;
 		
-		System.out.println("変数zの熱尾は" + z + "です。");
+		System.out.println("変数zの値は" + z + "です。");
 		
 		double a = 5.25;
 		a += 2.5;
@@ -14,7 +14,7 @@ public class Calculation {
 		int b = (int)a;
 		b += 10;
 		System.out.println("変数aの値は" + a + "です。");
-		System.out.println("#変数bの値は" + b + "です。" );
+		System.out.println("変数bの値は" + b + "です。" );
 		
 		
 		
